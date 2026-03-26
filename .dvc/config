@@ -1,2 +1,9 @@
+[core]
+    remote = dagshub
 ['remote "origin"']
     url = https://dagshub.com/s4lt1f0l/sentiment-dvc-data.git
+['remote "dagshub"']
+    url = https://dagshub.com/s4lt1f0l/sentiment-dvc-data.dvc
+    auth = basic
+    user = s4lt1f0l
+    password = 0f4d2e74bf00f494a14d9a8aa76894b88932dc72
